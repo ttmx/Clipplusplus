@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".activity.MainActivity">
+
+    <item
+        android:id="@+id/action_sign_out"
+        android:title="Cum"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_sign_outt"
+        android:title="Cum"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_sign_outtt"
+        android:title="Cum"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_sign_outttt"
+        android:title="Cum"
+        app:showAsAction="never"/>
+</menu>
